@@ -4,6 +4,8 @@
 
 ### 🎥 From a video to an interactive physics simulator in 60 seconds.
 
+🏆 **1st Place - DragonHack 2026 - Epilog Clean Code challenge** 🏆
+
 **✨ A novel pipeline that nobody has shipped. ✨**
 
 [![DragonHack](https://img.shields.io/badge/DragonHack-2026-red?style=for-the-badge)](https://dragonhack.si)
@@ -187,6 +189,6 @@ npm run dev
 
 <div align="center">
 
-**🐉 Built in 24 hours at DragonHack 2026 · Ljubljana 🇸🇮**
+**🐉 Built in 24 hours at DragonHack 2026 (with a slight nightclub pause 🍻🪩🕺🏼) · Ljubljana 🇸🇮** 
 
 </div>
